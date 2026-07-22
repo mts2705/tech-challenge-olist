@@ -1,6 +1,6 @@
-# 📊 Tech Challenge - Fase 1: Análise Executiva de Vendas e Logística Olist
+# Tech Challenge - Fase 1: Análise Executiva de Vendas e Logística Olist
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 Este projeto analisa o desempenho comercial, a eficiência logística e os fatores de satisfação do cliente da plataforma **Olist** (dataset público de e-commerce brasileiro com ~100 mil pedidos entre 2016 e 2018). 
 
 O foco da análise é responder à seguinte **Pergunta Norteadora**:
@@ -8,13 +8,13 @@ O foco da análise é responder à seguinte **Pergunta Norteadora**:
 
 ---
 
-## 🖥️ Dashboard Executivo Interativo
+## Dashboard Executivo Interativo
 Clique no link abaixo para navegar pelo painel completo e interativo desenvolvido no Tableau Public:
-👉 **[Acessar Dashboard Executivo no Tableau Public](https://public.tableau.com/views/DashboardExecutivoOlist-TechChallenge/DashboardExecutivo-Olist?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[Acessar Dashboard Executivo no Tableau Public](https://public.tableau.com/views/DashboardExecutivoOlist-TechChallenge/DashboardExecutivo-Olist?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
-## 💡 Principais Insights e Descobertas de Negócio
+## Principais Insights e Descobertas de Negócio
 
 ### 1. Desempenho Comercial & Volume (GMV)
 * **Receita Total (GMV):** R$ 20,47 Milhões gerados no período analisado.
@@ -32,7 +32,7 @@ Clique no link abaixo para navegar pelo painel completo e interativo desenvolvid
 
 ---
 
-## 📌 Recomendações Estratégicas para Acionistas/Investidores
+## Recomendações Estratégicas para Acionistas/Investidores
 
 1. **Hubs de Distribuição Avançados (Foco Norte/Nordeste):** Estabelecer parcerias com operadores logísticos regionais em RR, AP e AM para reduzir o tempo médio de trânsito em até 40%.
 2. **Gestão Preventiva de Capacidade (Picos de Demanda):** Aumentar a reserva operacional de transporte antes do quarto trimestre (Q4) para absorver o gargalo da Black Friday sem gerar ondas de atrasos subsequentes.
@@ -40,14 +40,14 @@ Clique no link abaixo para navegar pelo painel completo e interativo desenvolvid
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Python (Pandas, NumPy):** Limpeza, tratamento de nulos, junção de bases relacionais e engenharia de variáveis (`Dias Entrega Real`, `No Prazo`).
 * **Tableau Public:** Construção do Dashboard Executivo interativo, gráficos e storytelling visual.
 * **Git & GitHub:** Versionamento e documentação da solução.
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 ```text
 ├── Notebook Tech_Challenge_fase_1.ipynb   # Script Python com ETL dos dados
 └── README.md                             # Relatório executivo e documentação
